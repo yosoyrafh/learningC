@@ -11,9 +11,9 @@ I'm using it to practice fundamentals, build small programs, and understand how 
 - Explore pointers, memory, and data structures  
 - Build small projects to reinforce concepts  
 
-   _____ 
-  / ____|
- | |     
- | |     
- | |____ 
-  \_____|
+  ____ 
+ / ___|
+| |    
+| |    
+| |___ 
+ \____|
