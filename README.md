@@ -11,12 +11,11 @@ I'm using it to practice fundamentals, build small programs, and understand how 
 - Explore pointers, memory, and data structures  
 - Build small projects to reinforce concepts  
 
-```text
-<ascii here>
-
-  ____ 
- / ___|
-| |    
-| |    
-| |___ 
- \____|
+```
+  ██████╗ 
+ ██╔════╝ 
+ ██║      
+ ██║      
+ ╚██████╗ 
+  ╚═════╝ 
+```
